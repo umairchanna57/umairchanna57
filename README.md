@@ -6,7 +6,8 @@ My skills span a range of technologies, including Python, TensorFlow, Keras, PyT
 
 Beyond these areas, I am currently exploring new opportunities for growth and challenges. With a passion for continuous learning, I aim to contribute to cutting-edge research and advancements in the field of healthcare and AI.
 
-Feel free to connect with me on Twitter or LinkedIn for discussions about potential collaborations or opportunities in healthcare and AI.
+Feel free to reach out to me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2] to discuss any opportunities or collaborations.
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: When I'm not programming, I like to watch movies and play video games.
